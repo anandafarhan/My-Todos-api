@@ -16,8 +16,8 @@
 	"production": {
 		"username": "root",
 		"password": null,
-		"database": "database_production",
-		"host": "127.0.0.1",
+		"database": "my-todo-list",
+		"host": "158.140.172.208",
 		"dialect": "mysql"
 	}
 }
