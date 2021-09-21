@@ -15,7 +15,7 @@
 	},
 	"production": {
 		"username": "root",
-		"password": null,
+		"password": "",
 		"database": "my-todo-list",
 		"host": "158.140.172.208",
 		"dialect": "mysql"
